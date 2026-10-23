@@ -11,6 +11,6 @@
         "bottom_visible": "no",
         "msg_visible": "no",
         "score_visible": "no",
-        "default_link": "{\"name\":\"FanCode ( WORLDWIDE \ud83c\udf10 )\",\"subTitle\":\"FHD Auto Quality\",\"link\":\"https:\\\/\\\/a204aivottepl-a.akamaihd.net\\\/sin-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/h35gev6jft\\\/out\\\/v1\\\/c64004e114c245a4ab84bb570275a4a9\\\/cenc.mpd|user-agent=Mozilla\\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\\/537.36 (KHTML, like Gecko) Chrome\\\/149.0.0.0 Safari\\\/537.36\",\"api\":\"065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2\",\"tokenApi\":\"\",\"scheme\":0}"
+        "default_link": "{\"name\":\"English 1 Willow ( \ud83c\udf10 )\",\"subTitle\":\"FHD Auto Quality\",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/tll6uwepxa\\\/out\\\/v1\\\/a7f67cbb33df46539312956427343886\\\/cenc.mpd\",\"api\":\"290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247\",\"tokenApi\":\"\",\"scheme\":0}"
     }
 ]
