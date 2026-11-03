@@ -7,7 +7,7 @@
         "app_version": "0",
         "message": "\ud83c\udfcf Links active at match time",
         "message_url": "https:\/\/example.com\/update",
-        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.gharcric.tv.playtv.crictv",
+        "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.monster.game.noxa.puzzle",
         "bottom_visible": "no",
         "msg_visible": "no",
         "score_visible": "no",
